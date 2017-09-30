@@ -1,2 +1,6 @@
 
-var playlist = {playlistS}
+var playlist = {playlist}
+
+function(playlist, artistName, songTitle){
+  
+}
