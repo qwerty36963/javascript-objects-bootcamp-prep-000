@@ -1,6 +1,6 @@
 
 var playlist = {playlist}
 
-function put(playlist, artistName, songTitle){
+function updatePlaylist(playlist, artistName, songTitle){
   playlist.artistName = songTitle;
 }
