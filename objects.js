@@ -1,3 +1,2 @@
 
-var playlist = {artist:"song"}
-pllaylist.dicks='small';
+var playlist = {}
